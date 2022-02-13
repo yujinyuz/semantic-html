@@ -23,3 +23,8 @@ always be the same -- that it's one of the important parts of the current page.
 Give a design to 10 developers and you will get 10 different code versions.
 
 What that just means is that there's no right or wrong when doing frontend work
+
+
+--
+
+<article> tags should include <h1>-<h6> as a child of the article element
